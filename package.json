@@ -16,7 +16,6 @@
     "leaflet": "^1.9.4",
     "malihu-custom-scrollbar-plugin": "^3.1.5",
     "moment": "^2.30.1",
-    "pagination-for-reactjs-component": "*",
     "pdfjs-dist": "^3.4.120",
     "react": "^18.2.0",
     "react-beautiful-dnd": "^13.1.1",
