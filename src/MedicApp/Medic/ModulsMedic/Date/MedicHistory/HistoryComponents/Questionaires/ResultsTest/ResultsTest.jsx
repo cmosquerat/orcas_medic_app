@@ -8,7 +8,7 @@ export default function ResultsTest(props) {
     <div className='alertContainer'>
         {props.type == "General" ? 
         <>
-        {props.result <= 30 ? 
+        {/* {props.result <= 30 ? 
         <>
         <IoAlertCircleOutline color='#d1a207' size={55}></IoAlertCircleOutline>
         <span className='orangev2 font_medium text-align'>Test General</span>
@@ -57,7 +57,7 @@ export default function ResultsTest(props) {
         }
         </>
         }
-        
+         */}
         </>
         :
         <></>
